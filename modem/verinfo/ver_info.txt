@@ -1,0 +1,20 @@
+{
+    "Image_Build_IDs": {
+        "adsp": "ADSP.VT.3.0-00163-00000-1", 
+        "boot": "BOOT.BF.3.3.2-00078-M8953JAAAANAZB-2", 
+        "common": "SDM439.LA.3.0-00035-STD.PROD-1.372875.1.377084.1", 
+        "cpe": "CPE.TSF.3.0-00002-W9335AAAAAAAZQ-4", 
+        "glue": "GLUE.SDM439_LA.2.0-00100-NOOP_TEST-1", 
+        "modem": "MPSS.JO.3.3-00045-SDM439_GENNS_PACK-2.372875.2.377084.1", 
+        "rpm": "RPM.BF.2.2-00253-M8917AAAAANAZR-1", 
+        "tz": "TZ.BF.4.0.5-00241-M8937AAAAANAZT-1", 
+        "video": "VIDEO.VE_ULT.3.1-00048-PROD-1", 
+        "wcnss": "CNSS.PR.4.0.3-00301-M8953BAAAANAZW-1"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "SDM439.LA.3.0-00035-STD.PROD-1.372875.1.377084.1", 
+        "Product_Flavor": "['asic']", 
+        "Time_Stamp": "2021-02-26 19:57:55"
+    }, 
+    "Version": "1.0"
+}
